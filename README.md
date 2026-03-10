@@ -31,7 +31,7 @@ Download the dashboard : [Xoa_vm_overview.json](/Dashboard/Xoa_vm_overview.json)
 
 ## Storage Overview 
 
-![Storage](/Assets/Xoa_sr_overview.png)
+![Storage](/Assets/sr_overview.png)
 
 Download the dashboard : [Xoa_sr_overview.json](/Dashboard/Xoa_sr_overview.json)
 
