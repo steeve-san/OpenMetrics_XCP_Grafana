@@ -11,19 +11,19 @@ forum link : https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-da
 
 ## Cluster Overview 
 
-![Cluster](/screenshot/cluster_view.png)
+![Cluster](/Assets/cluster_view.png)(/Dashboard/Xoa_cluster_overview.json)
 
 ## Host Overview 
 
-![Host](/screenshot/host_view.png)
+![Host](/Assets/host_view.png)(/Dashboard/Xoa_host_overview.json)
 
 ## VM Overview 
 
-![VM](/screenshot/vm_view.png)
+![VM](/Assets/vm_view.png)(/Dashboard/Xoa_vm_overview.json)
 
 ## Storage Overview 
 
-![Storage](/screenshot/storage_view.png)
+![Storage](/Assets/storage_view.png)(/Dashboard/Xoa_sr_overview.json)
 
 # Feature curently in progress : 
 
