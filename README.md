@@ -15,7 +15,7 @@ Forum link: https://xcp-ng.org/forum/topic/11856/openmetrics-powered-grafana-das
 
 ![Cluster](/assets/cluster_view.png)
 
-Download the dashboard : [Xoa_cluster_overview.json](/cashboard/Xoa_cluster_overview.json)
+Download the dashboard : [Xoa_cluster_overview.json](/dashboard/Xoa_cluster_overview.json)
 
 ## Host Overview 
 
