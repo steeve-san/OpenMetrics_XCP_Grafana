@@ -213,7 +213,7 @@
           "disableTextWrap": false,
           "editorMode": "code",
           "exemplar": false,
-          "expr": "count by(__name__) (xcp_vm_cpu_usage{type=\"vm\"})",
+          "expr": "count by(__name__) (xcp_vm_cpu_usage{type="vm", is_control_domain="false"})",
           "fullMetaSearch": false,
           "hide": false,
           "includeNullMetadata": true,
