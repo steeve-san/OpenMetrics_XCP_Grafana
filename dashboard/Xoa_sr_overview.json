@@ -98,7 +98,7 @@
             "uid": "${datasource}"
           },
           "editorMode": "code",
-          "expr": "(xcp_sr_physical_usage_bytes / xcp_sr_physical_size_bytes) *100 ",
+          "expr": "(xcp_sr_physical_usage_bytes / xcp_sr_physical_size_bytes) *100 > 0 < 100 ",
           "instant": false,
           "legendFormat": "{{sr_name}}",
           "range": true,
