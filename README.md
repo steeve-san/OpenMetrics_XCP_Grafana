@@ -1,6 +1,9 @@
-# OpenMetrics_XCP_Grafana
+# Grafana Dashboards
 
-This is a Grafana dashboard for XCP-ng/XOA using the OpenMetrics plugin (Prometheus exporter).
+[![Grafana](https://img.shields.io/badge/grafana-dashboard-F46800?logo=grafana)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/prometheus-exporter-E6522C?logo=prometheus)](https://prometheus.io/)
+
+Dashboard for XCP-ng/XOA using the OpenMetrics plugin (Prometheus exporter).
 
 This dashboard is my own version of an infrastructure overview.  
 All dashboards include recurring views for VM, SR, Host, and Pool if they are connected to the XOA Prometheus telemetry source.
