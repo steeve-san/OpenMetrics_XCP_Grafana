@@ -899,7 +899,7 @@
             "uid": "${datasource}"
           },
           "editorMode": "builder",
-          "expr": "rate(xcp_host_network_receive_bytes_total{interface=\"aggr\"}[5m])",
+          "expr": "rate(xcp_host_network_aggregated_receive_bytes[5m])",
           "legendFormat": "rx - {{host_name}}",
           "range": true,
           "refId": "A"
@@ -910,7 +910,7 @@
             "uid": "${datasource}"
           },
           "editorMode": "builder",
-          "expr": "rate(xcp_host_network_transmit_bytes_total{interface=\"aggr\"}[5m])",
+          "expr": "rate(xcp_host_network_aggregated_transmit_bytes[5m])",
           "hide": false,
           "legendFormat": "tx - {{host_name}}",
           "range": true,
